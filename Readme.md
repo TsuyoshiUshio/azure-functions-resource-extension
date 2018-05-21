@@ -1,4 +1,4 @@
-﻿# Resource Deployment bindings 
+# Resource Deployment bindings 
 
 This is Azure Functions output bindings for deploying ARM template with dynamic parameter.
 
