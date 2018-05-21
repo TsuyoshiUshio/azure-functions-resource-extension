@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsSample", "BindingsSample\FunctionsSample.csproj", "{BFE81176-D8AE-4C4C-9375-A6058174D271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionsSample", "BindingsSample\FunctionsSample.csproj", "{BFE81176-D8AE-4C4C-9375-A6058174D271}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobs.Extensions.ResourceDeployment", "WebJobs.Extensions.ResourceDeployment\WebJobs.Extensions.ResourceDeployment.csproj", "{360A6873-46AC-44F6-BB11-66E45BA462AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebJobs.Extensions.ResourceDeployment", "WebJobs.Extensions.ResourceDeployment\WebJobs.Extensions.ResourceDeployment.csproj", "{360A6873-46AC-44F6-BB11-66E45BA462AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

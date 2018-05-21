@@ -59,6 +59,14 @@ namespace WebJobs.Extensions.ResourceDeployment
                 return;
             }
         }
+        /// <summary>
+        /// This method is for someone who wants to deploy manually.
+        /// </summary>
+        /// <returns></returns>
+        public IAzure GetClient()
+        {
+            return this.client;
+        }
 
         private void ConfigureClient()
         {
